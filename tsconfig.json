@@ -22,5 +22,5 @@
   },
   "include": [
     "src"
-  ]
+, "frontend/src/reportWebVitals.ts", "frontend/src/App.test.tsx", "frontend/src/setupTests.ts", "frontend/src/react-app-env.d.ts"  ]
 }
